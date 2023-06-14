@@ -1,0 +1,31 @@
+.navbar {
+  width: 100vw;
+  background-color: #24252a;
+  display: flex;
+  justify-content: space-between;
+  height: 4rem;
+  align-items: center;
+}
+.middle-navbar-content {
+  display: flex;
+  justify-content: space-between;
+  width: 140px;
+}
+.home-logo {
+  color: #f9f6f0;
+  font-size: 20px;
+  font-family: "Festive", cursive;
+  font-family: "Red Hat Display", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Rowdies", cursive;
+}
+.home-logo-container,
+.middle-navbar-content,
+.contact-container {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.links {
+  color: #f9f6f0;
+}
